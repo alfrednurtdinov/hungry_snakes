@@ -1,5 +1,5 @@
 # hungry_snakes
-#https://hungrysnakes.herokuapp.com/
+https://hungrysnakes.herokuapp.com/
 ## многопользовательская игра в змейку - тренировочный и развлекательный проект с элементами асинхронности на питоне
 
 
